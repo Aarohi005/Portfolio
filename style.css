@@ -166,6 +166,7 @@ body{
 .three .im{
     background-color: black;
     padding:1px;
+    margin: 5px;
 }
 .four h1{
     color:rgb(218, 83, 83);
